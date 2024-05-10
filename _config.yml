@@ -3,7 +3,7 @@
 
 markdown: kramdown
 permalink: pretty
-exclude: ['README.*', 'LICENSE.txt']
+exclude: ['README.*', 'LICENSE.*']
 sass:
     style: expanded
 
@@ -180,7 +180,7 @@ links:
       name: Telegram
       show: true
       href: https://t.me/Palvef
-      icon: fas fa-telegram
+      icon: fab fa-telegram
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
