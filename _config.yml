@@ -164,18 +164,18 @@ links:
   - blog:
       name: Blog
       show: true
-      href: https://blog.palve.tech
+      href: https://blog.palve.moe
       icon: fas fa-book-open
   - email:
       name: Email
       show: true
-      href: mailto:i@palve.tech
+      href: mailto:i@palve.moe
       icon: fas fa-envelope
-#   - publickey:
-#       name: PGP Key
-#       show: true
-#       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
-#       icon: fas fa-key
+  - publickey:
+      name: PGP Key
+      show: true
+      href: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x0b892f361ba3bcdf3bb4bceeb9dd6d5528ff0942
+      icon: fas fa-key
   - telegram:
       name: Telegram
       show: true
