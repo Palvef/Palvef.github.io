@@ -174,7 +174,7 @@ links:
   - publickey:
       name: PGP Key
       show: true
-      href: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x0b892f361ba3bcdf3bb4bceeb9dd6d5528ff0942
+      href: https://keys.openpgp.org/vks/v1/by-fingerprint/07FC04A9ABEFA5BBF836FB6FD1F1F534FD208BC7
       icon: fas fa-key
   - telegram:
       name: Telegram
